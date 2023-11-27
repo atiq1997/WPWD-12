@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../class7"
+		},
+		{
+			"path": "../wpwd10"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wpwd10"
+	}
+}
